@@ -18,7 +18,7 @@ function App() {
           <List>
             <Li to={"/"}>Home</Li>
             <Li to={"/"}>About</Li>
-            <Li to={"/"}>Contact</Li>
+            <Li to={"/"}>Contact test</Li>
           </List>
         </Nav>
 
